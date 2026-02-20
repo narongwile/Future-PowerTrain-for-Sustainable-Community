@@ -40,7 +40,7 @@ function App() {
             Professor Takashi SASABE, School of Engineering, Department of Mechanical Engineering, Institute of Science Tokyo
           </div>
         </div>
-        <div className="author">A2TE KMUTT: Narongkorn Buanarth 68070703806</div>
+        <div className="author">A2TE KMUTT: 68070703806 Narongkorn Buanarth </div>
       </header>
 
       {/* Main Content */}
