@@ -5,7 +5,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue)
 ![Vite](https://img.shields.io/badge/Vite-7.3-purple)
 
-An advanced interactive dashboard simulating thermodynamic, chemical, and electrical systems for future sustainable powertrains. Developed as part of coursework at the **Institute of Science Tokyo** by **A2TE KMUTT: Narongkorn Buanarth** (Instructor: Professor Takashi SASABE).
+An interactive dashboard simulating thermodynamic, chemical, and electrical systems for future sustainable powertrains. Developed as part of coursework at the **Institute of Science Tokyo** by **A2TE KMUTT: Narongkorn Buanarth** (Instructor: Professor Takashi SASABE).
 
 🔗 **[Live Demo](https://narongwile.github.io/Future-PowerTrain-for-Sustainable-Community/)**
 
